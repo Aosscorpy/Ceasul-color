@@ -25,3 +25,5 @@ function colorClock(){
     colorClock();
   }, 1000);
 }
+
+colorClock();
