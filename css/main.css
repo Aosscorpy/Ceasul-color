@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  top: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  margin-top: -2rem;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 4rem;
+  color: white;
+}
