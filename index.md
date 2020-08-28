@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/main.css">
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700;800&display=swap" rel="stylesheet">
     
-    <script src="js/common.js"></script>       
+    <script src="./js/common.js"></script>    
 </head>
 <body>
     
